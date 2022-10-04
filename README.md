@@ -10,3 +10,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `ng build` to build the project.
 
+Screenshots of project
+![Home](https://user-images.githubusercontent.com/10641441/193903148-f22d088e-696b-424b-897a-514872dec6b7.JPG)
+![Breweries](https://user-images.githubusercontent.com/10641441/193903173-83d60a75-1791-4929-b468-0674e65ca483.JPG)
